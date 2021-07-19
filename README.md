@@ -5,6 +5,8 @@ This program will go through the fallout directory recursively and use ffmpeg to
 
 this will look in $HOME/.local/share/Steam/steamapps/common/Fallout 3 goty by default
 
+Or
+
 `main.py -d FALLOUTDIRECTORY -b`
 
 `-d or --dir`
