@@ -1,5 +1,7 @@
 This program will go through the fallout directory recursively and use ffmpeg to reencode all mp3s to 192kbps to avoid skipping of tracks caused by Proton's recent regressions
+
 https://github.com/ValveSoftware/Proton/issues/356#issuecomment-753681967
+
 `USAGE:`
 `main.py`
 
