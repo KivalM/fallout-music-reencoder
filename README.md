@@ -41,4 +41,4 @@ Or
 
     displays this message
 
-TODO: neaten readme
+TODO: neaten readme, hide ffmpeg output, make an undo script
